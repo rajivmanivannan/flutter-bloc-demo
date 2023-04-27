@@ -9,6 +9,10 @@ Mobile App (Android & iOS) to demonstrate the flutter BLoC Library
 <pre>
 flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
+</pre>  
+To run test cases
+<pre>
+flutter test test
 </pre>
 
 For help getting started with Flutter development, view the
